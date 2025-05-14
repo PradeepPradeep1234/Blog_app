@@ -13,7 +13,7 @@ A simple blog application built with **Flask**, **Flask-WTF**, and **SQLAlchemy*
 - SQLite database with SQLAlchemy ORM
 
 ---
-pip install -r requirements.txt
+## pip install -r requirements.txt
 
 ## 🛠️ Technologies Used
 
@@ -28,6 +28,6 @@ pip install -r requirements.txt
 
 **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/blog-app.git
+   git clone https://github.com/PradeepPradeep1234/Blog_app.git
    cd blog-app
 

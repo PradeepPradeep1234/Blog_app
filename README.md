@@ -2,6 +2,8 @@
 
 A simple blog application built with **Flask**, **Flask-WTF**, and **SQLAlchemy**, allowing users to create, view, and update blog posts.
 
+🔗 **Live Demo**: [Visit Blog App](https://blog-app-ua0g.onrender.com)
+
 ---
 
 ## 🚀 Features
@@ -9,8 +11,10 @@ A simple blog application built with **Flask**, **Flask-WTF**, and **SQLAlchemy*
 - Add new blog posts
 - View all blogs
 - Update existing posts
+- Delete Blog posts
 - Built using Flask and WTForms
 - SQLite database with SQLAlchemy ORM
+
 
 ---
 ## pip install -r requirements.txt
